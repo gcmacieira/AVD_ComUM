@@ -2,7 +2,7 @@
 ## Repositório de ficheiros relativos à Unidade Curricular de Análise e Visualização de Dados (Jornal ComUM).
 
 
-### PARTE 3:
+### Parte3
 Dentro desta pasta pasta encontram-se três pastas:
 
 **AnaliseComum:** onde se encontram todas as scripts utilizadas para analisar o corpus do Jornal ComUM (dentro da pasta "Codigos"), os resultados obtidos através das scripts, em CSV ou xlsx (dentro da pasta "Resultados") e inclusive a Makefile.
