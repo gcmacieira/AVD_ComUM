@@ -1,55 +1,55 @@
-IntroduÃ§Ã£o
+Introdução
 Sentimento: Positivo
 Polaridade do Sentimento: 0.1875
-CapÃ­tulo I
+Capítulo I
 Sentimento: Negativo
 Polaridade do Sentimento: -0.14776475694444444
-CapÃ­tulo II
+Capítulo II
 Sentimento: Negativo
 Polaridade do Sentimento: -0.125
-CapÃ­tulo III
+Capítulo III
 Sentimento: Positivo
 Polaridade do Sentimento: 0.1025
-CapÃ­tulo IV
+Capítulo IV
 Sentimento: Negativo
 Polaridade do Sentimento: -0.26187499999999997
-CapÃ­tulo V
+Capítulo V
 Sentimento: Negativo
 Polaridade do Sentimento: -0.023214285714285694
-CapÃ­tulo VI
+Capítulo VI
 Sentimento: Positivo
 Polaridade do Sentimento: 0.182220458984375
-CapÃ­tulo VII
+Capítulo VII
 Sentimento: Positivo
 Polaridade do Sentimento: 0.11313225746154784
-CapÃ­tulo VIII
+Capítulo VIII
 Sentimento: Negativo
 Polaridade do Sentimento: -0.5
-CapÃ­tulo IX
+Capítulo IX
 Sentimento: Positivo
 Polaridade do Sentimento: 0.55
-CapÃ­tulo X
+Capítulo X
 Sentimento: Positivo
 Polaridade do Sentimento: 0.11393229166666667
-CapÃ­tulo XI
+Capítulo XI
 Sentimento: Positivo
 Polaridade do Sentimento: 0.1375
-CapÃ­tulo XII
+Capítulo XII
 Sentimento: Positivo
 Polaridade do Sentimento: 0.1476837158203125
-CapÃ­tulo XIII
+Capítulo XIII
 Sentimento: Positivo
 Polaridade do Sentimento: 0.14091331845238098
-CapÃ­tulo XIV
+Capítulo XIV
 Sentimento: Negativo
 Polaridade do Sentimento: -0.16406249999999997
-CapÃ­tulo XV
+Capítulo XV
 Sentimento: Negativo
 Polaridade do Sentimento: -0.3236368815104167
-CapÃ­tulo XVI
+Capítulo XVI
 Sentimento: Negativo
 Polaridade do Sentimento: -0.29556961059570314
-CapÃ­tulo XVII
+Capítulo XVII
 Sentimento: Negativo
 Polaridade do Sentimento: -0.02938232421875
 Livro completo
