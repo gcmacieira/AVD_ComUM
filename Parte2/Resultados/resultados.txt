@@ -1,0 +1,58 @@
+Introdução
+Sentimento: Positivo
+Polaridade do Sentimento: 0.1875
+Capítulo I
+Sentimento: Negativo
+Polaridade do Sentimento: -0.14776475694444444
+Capítulo II
+Sentimento: Negativo
+Polaridade do Sentimento: -0.125
+Capítulo III
+Sentimento: Positivo
+Polaridade do Sentimento: 0.1025
+Capítulo IV
+Sentimento: Negativo
+Polaridade do Sentimento: -0.26187499999999997
+Capítulo V
+Sentimento: Negativo
+Polaridade do Sentimento: -0.023214285714285694
+Capítulo VI
+Sentimento: Positivo
+Polaridade do Sentimento: 0.182220458984375
+Capítulo VII
+Sentimento: Positivo
+Polaridade do Sentimento: 0.11313225746154784
+Capítulo VIII
+Sentimento: Negativo
+Polaridade do Sentimento: -0.5
+Capítulo IX
+Sentimento: Positivo
+Polaridade do Sentimento: 0.55
+Capítulo X
+Sentimento: Positivo
+Polaridade do Sentimento: 0.11393229166666667
+Capítulo XI
+Sentimento: Positivo
+Polaridade do Sentimento: 0.1375
+Capítulo XII
+Sentimento: Positivo
+Polaridade do Sentimento: 0.1476837158203125
+Capítulo XIII
+Sentimento: Positivo
+Polaridade do Sentimento: 0.14091331845238098
+Capítulo XIV
+Sentimento: Negativo
+Polaridade do Sentimento: -0.16406249999999997
+Capítulo XV
+Sentimento: Negativo
+Polaridade do Sentimento: -0.3236368815104167
+Capítulo XVI
+Sentimento: Negativo
+Polaridade do Sentimento: -0.29556961059570314
+Capítulo XVII
+Sentimento: Negativo
+Polaridade do Sentimento: -0.02938232421875
+Livro completo
+Sentimento: Negativo
+Polaridade do Sentimento: -0.02938232421875
+--------------------------------------------------
