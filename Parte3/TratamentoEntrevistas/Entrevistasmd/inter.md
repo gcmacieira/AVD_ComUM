@@ -2,13 +2,12 @@
 date: 4 de abril de 2024
 author: Gabriela C. Macieira
 interviewee: Xaquín Núñez-Sabarís
-interviewer: Gabriela C. Macieira
-image: ! [Fotografia](URL da imagem)
 title: "50 Anos de Universidade do Minho: à conversa com Xaquín Núñez-Sabarís"
-tags: Universidade do Minho, Xaquín Núñez-Sabarís, carreira acadêmica, estudos espanhóis, literatura hispânica.
+tags: Universidade do Minho, Xaquín Núñez-Sabarís, carreira académica, estudos espanhóis, literatura hispânica.
 type: entrevista
 ---
 
+![Fotografia](https://github.com/alexandrafernandesHD/avd-MHD/blob/8c5c4e1474431d5578103a841b335c209ee004eb/Arquivo_UMSombra/EntrevistasAVD/GabrielaMacieira/IMG_2469.JPG)
 
 # 50 Anos de Universidade do Minho: à conversa com Xaquín Núñez-Sabarís
 
@@ -31,6 +30,7 @@ Ontem recebi uma visita cá, de um amigo meu, que até no seu âmbito profission
 
 
 ## Um objeto que associe ao seu percurso pela universidade.
+![Objeto](https://github.com/gcmacieira/AVD_ComUM/blob/3f2d090b452e37139916f42dfc87292387457d6b/Parte3/TratamentoEntrevistas/Entrevistasmd/IMG_2469.JPG)
 
 Já tinha pensado em trazer este objeto, mas estes dias ainda cresceu ou reforçou a relevância do mesmo. Este livro, acho que é o que mais define e identifica o meu passo por esta universidade, desde o ano 2006, porque anteriormente, quando eu cheguei, os estudos espanhóis estavam disseminados em diferentes licenciaturas e apenas havia língua. Com a criação da licenciatura de línguas e literaturas europeias, começamos a ter também literatura e cultura espanhola e, portanto, desde 2006, levo lecionando literatura hispânica. Um dos livros que acho que sempre esteve presente nos meus programas é “La Casa de Bernarda Alba”, de Federico García Lorca. E acho que de todas as leituras que fazemos nas aulas, parece-me que, de todas elas, a que mais atualidade tem é esta. Portanto, escolhi este livro por isso. Porque é um texto ainda muito atual, é um texto que acho que nos continua interpelando, não é? Até pela azarosa vida do Federico García Lorca. E porque, como gosto da minha atividade: ser professor de literatura. Eu sou filho de professores do ensino primário e sempre tive claro que queria ser professor e acho que se continuasse a nascer, queriria seguir sendo professor. E, recentemente, tive que ir a Madrid por motivos pessoais e tive a oportunidade de ver a montagem de, eu gosto muito de teatro, de “La Casa de Bernardo Alba”, do Centro Dramático Nacional.Apesar de conhecer o texto, apesar de ter explicado tanto este texto, ainda é um texto que continua, uma obra que continua a emocionar. E, ainda por cima, já tinha lido as observações do Alfredo Sanzol, do diretor da obra. Fiquei agradado porque, de alguma forma, confluía com uma perspectiva que eu tinha abordado a propósito do personagem de Bernarda Alba. Não sei se te lembrarás, que, contrariamente à imagem que se tem dado dela como uma mulher inequivocamente dura, inequivocamente cruel, inequivocamente autoritária, há um aspecto ali humano. Há um aspecto de proteção das filhas perante aquela sociedade patriarcal, cruel, que o Alfredo Sanzol recolhe na sua montagem. Portanto, pensei "Bem, não devo ser assim tão mau aluno, tão mau professor", digo, nas minhas leituras dos clássicos. E, por isso, trouxe “La Casa de Bernarda Alba”.
 
@@ -38,4 +38,3 @@ Já tinha pensado em trazer este objeto, mas estes dias ainda cresceu ou reforç
 ##  O que é, para si, a Universidade do Minho em apenas uma palavra.
 
 Pois a Universidade numa palavra… é difícil. O que mais me agrada desta Universidade é que é uma Universidade nova. Isso tem algumas desvantagens provavelmente, mas também tem alguma outra vantagem. Que as coisas ainda estão mais por fazer, ainda há algum aspecto novo e tal. Então "resiliência", talvez. Poderia ser a palavra que agora me vem à cabeça. Não gosto muito da palavra, mas agora não consigo pensar nalguma outra alternativa.
-
