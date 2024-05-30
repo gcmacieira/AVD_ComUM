@@ -7,11 +7,13 @@ Gabriela C. Macieira
 
 Maria Francisca Barros
  ## Parte 2
- Dentro desta pasta encontram-se duas pastas:
+ Dentro desta pasta encontram-se três pastas:
  
- **Parte 2:** Onde se encontra um Collab com todos os códigos realizados em relação à Lei de Zipf, Extração e contagem de Lemas, Organização de um Dataset: Estratégias e Considerações Essenciais, Organização dos Dados dos Artigos ComUm, Análise de Sentimentos do livro "Harry Potter e a Pedra Filosofal" e Sentilex.
+ **Código:** Que contém os diveros códigos usados nos diferentes exercícios.
  
- **ficheiros.zip:** Onde se encontram todos os ficheiros necessários para a realização dos diversos exercícios.
+ **Ficheiros_utilizados:** Onde se encontram todos os ficheiros que foram utilizados na realização de exercícios.
+ 
+**Resultados:** : Pasta que contém todos os ficheiros resultantes dos exercícios.
 
 ## Parte3
 Dentro desta pasta pasta encontram-se três pastas:
