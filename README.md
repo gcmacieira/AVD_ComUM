@@ -17,9 +17,19 @@ Parte 3: https://colab.research.google.com/drive/1lED1_E2tkNcy5RT_EoDHzRW3D0TlTO
 
 
 ## Parte 1
-Dentro desta pasta encontram-se as **pastas** e **códigos** utilizados no processo de extração e organização dos artigos do jornal ComUM.
+Dentro desta pasta encontram-se os **diretórios** e **códigos** utilizados no processo de extração e organização dos artigos do jornal ComUM.
 
-**Artigos_ComUM** e **Artigos_ComUM_md** são as pastas finais, com os artigos em html e markdown respetivamente.
+**Parte1_Códigos**: contem todos os códigos realizados no processo de extração e organização.
+
+**Artigos_ComUM.zip** e **Artigos_ComUM_md.zip** são as pastas que contem o resultado final da extração em formato html e markdown, respetivamente.
+
+**Etiqueta_Entrevista.zip**, **Etiqueta_Entrevista_org.zip** e **Etiqueta_Entrevista_clean.zip** são as pastas que contem os ficheiros após a extração da etiqueta Entrevista (primeira), após uma organização (segunda pasta) e, por fim, após uma limpeza (terceira pasta).
+
+**Etiqueta_UMinho.zip**, **Etiqueta_UMinho_org.zip** e **Etiqueta_UMinho_clean.zip** são as pastas que contem os ficheiros após a extração da etiqueta UMinho (primeira), após uma organização (segunda pasta) e, por fim, após uma limpeza (terceira pasta).
+
+**Etiqueta_UniversidadeDoMinho.zip**, **Etiqueta_UnivesidadeDoMinho_org.zip** e **Etiqueta_UniversidadeDoMinho_clean.zip** são as pastas que contem os ficheiros após a extração da etiqueta Universidade do Minho (primeira), após uma organização (segunda pasta) e, por fim, após uma limpeza (terceira pasta).
+
+***Nota:*** Todas estas pastas foram geradas com códigos. O processo é explicado na Parte 1 do relatório que se encontra no Google Collaborate.
 
  ## Parte 2
  Dentro desta pasta encontram-se três pastas:
