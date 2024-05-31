@@ -15,6 +15,8 @@ Maria Francisca Barros
  
 **Resultados:** : Pasta que contém todos os ficheiros resultantes dos exercícios.
 
+**Notebook:** Apresenta o Collab onde foi realizado o trabalho. Para além disso possui um ficheiro zip que contém os ficheiros necessários para o funcionamento dos códigos no Collab. Assim, é necessário carregar o ficheiro "parte2.zip" para o Collab.
+
 ## Parte3
 Dentro desta pasta pasta encontram-se três pastas:
 
