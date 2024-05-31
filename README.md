@@ -33,3 +33,11 @@ Dentro desta pasta pasta encontram-se três pastas:
 **TratamentoEntrevistas:** nesta pasta estão todos os documentos relativos ao tratamento e análise das entrevistas. Na pasta "Codigo" está a script utilizada para retirar os nomes próprios das entrevistas; na pasta "Entrevistasmd" estão as entrevistas; na pasta "Resultados" estão os resultados obtidos, em CSV, com a script usada.
 
 ***NOTA:*** A Makefile está "dividida" em duas partes: a primeira trata o Jornal ComUM, e a segunda trata o Jornal Nós UMinho.
+
+**LINKS RELATÓRIO COLAB:**
+
+Parte 1: https://colab.research.google.com/drive/1heE8vr_31_9JlsN9rmqTUwWo8BTFYJh3?usp=sharing
+
+Parte 2: https://colab.research.google.com/drive/1Dl0uRT6R-8IoyMJ2cF5HO9hCUmfecV6p#scrollTo=vy9zAzzXdhm6
+
+Parte 3: https://colab.research.google.com/drive/1lED1_E2tkNcy5RT_EoDHzRW3D0TlTO-I#scrollTo=4j5JXlFLCflC
