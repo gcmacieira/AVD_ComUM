@@ -8,7 +8,7 @@ Gabriela C. Macieira
 Maria Francisca Barros
 
 ## Parte 1
-Dentro desta pasta encontram-se as **pastas** e **códigos** utilizados no processo de extração e organização dos artigos do jornal ComUM. Com o apoio do relatório realizado no Collab é possível a compreensão dos códigos que geraram as diferentes pastas.
+Dentro desta pasta encontram-se as **pastas** e **códigos** utilizados no processo de extração e organização dos artigos do jornal ComUM.
 
 **Artigos_ComUM** e **Artigos_ComUM_md** são as pastas finais, com os artigos em html e markdown respetivamente.
 
